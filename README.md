@@ -1,6 +1,7 @@
-# Go (golang): Develop 
+# 🇬🇧 Media and Downloads for GO (golang): Develop Modern, Fast & Secure Web Applications
+  🇩🇪 Media and Downloads für "GO (golang): Schnelle & sichere Webanwendungen programmieren"
 
 
-🇬🇧 An Udemy course accompanying educational repository to build web applications with Go (golang).
+🇬🇧 course-related repo for media and downloads
 
-🇩🇪 Ein einen Udemy-Kurs begleitendes Lehr-Repository, um Webanwendungen mit Go (golang) zu entwickeln.
+🇩🇪 kursbegleitendes Repo für Medien und Downloads 
